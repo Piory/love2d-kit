@@ -1,11 +1,10 @@
 package = "love2dkit"
 version = "1.0-0"
 source = {
-  url = "git://github.com/yoshi8102-p/lua-love-anim8.git",
-  tag = "v1.0-0"
+  url = "git://github.com/yoshi8102-p/love2d-kit.git"
 }
 description = {
-  homepage = "https://github.com/yoshi8102-p/lua-love-anim8.git",
+  homepage = "https://github.com/yoshi8102-p/love2d-kit.git",
   license = "Pixi"
 }
 dependencies = {
